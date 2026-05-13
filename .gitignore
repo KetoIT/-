@@ -1,6 +1,6 @@
 node_modules/
-dist/
 .vite/
+.dist
 *.local
 .env
 .env.*
@@ -8,3 +8,5 @@ dist/
 Thumbs.db
 *.log
 tmp/
+tsconfig.tsbuildinfo
+cursor/
